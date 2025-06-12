@@ -25,4 +25,4 @@ A fast, customizable chatbot backend built with **FastAPI**, **LangChain**, and 
 ## Links
 
 - [Demo](https://venture-logistics.github.io/demo/updates.html)
-- 
+- [Documentation](https://venture-logistics.github.io/data/index.html)
